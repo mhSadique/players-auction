@@ -1,0 +1,10 @@
+.players-in-club {
+    background-color: #ff6666;
+    width: 50%;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+.players-in-club li {
+    list-style-type: none;
+}
